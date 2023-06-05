@@ -60,7 +60,7 @@ const Result = ({ correct }) => {
 			<h1>
 				Ви Відгадали {correct} із {questions.length}
 			</h1>
-			<a href="/">Спробувати знову</a>
+			<a href="/React-Quiz/">Спробувати знову</a>
 		</div>
 	);
 };
